@@ -17,3 +17,7 @@ This project involves a simple clone of Starbucks' website. It is made using HTM
 -- Grid
 -- Transitions
 -- Hover Effects
+
+# Preview
+
+
