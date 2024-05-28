@@ -20,4 +20,6 @@ This project involves a simple clone of Starbucks website. It is made using HTML
 
 # Preview
 
+![sturbuks-ezgif com-video-to-gif-converter](https://github.com/TugbaKes55/StarbucksClone/assets/170290830/323dd0b1-699c-429f-8d8f-a422fe230f49)
+
 
